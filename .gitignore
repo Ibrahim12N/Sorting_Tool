@@ -1,0 +1,42 @@
+# Project exclude paths
+/.gradle/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/
+/Sorting Tool/task/out/production/classes/
+/Topics/ArrayList/Creating list/out/
+/Topics/ArrayList/Creating list/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/Boxing and unboxing/Safe converting/out/
+/Topics/Boxing and unboxing/Safe converting/out/production/classes/
+/Topics/Boxing and unboxing/Theory/build/
+/Topics/Boxing and unboxing/Theory/out/
+/Topics/Boxing and unboxing/Theory/out/production/classes/
+/Topics/Insertion sort in Java/The number of required shifts/out/
+/Topics/Insertion sort in Java/The number of required shifts/out/production/classes/
+/Topics/Insertion sort in Java/Theory/out/
+/Topics/Insertion sort in Java/Theory/out/production/classes/
+/Topics/Merge sort in Java/Count the number of merge operations/out/
+/Topics/Merge sort in Java/Count the number of merge operations/out/production/classes/
+/Topics/Merge sort in Java/Merge all sequences/out/
+/Topics/Merge sort in Java/Merge all sequences/out/production/classes/
+/Topics/Merge sort in Java/The number of inversions/out/
+/Topics/Merge sort in Java/The number of inversions/out/production/classes/
+/Topics/The Collections Framework overview/Squares list/out/
+/Topics/The Collections Framework overview/Squares list/out/production/classes/
+/Topics/The List interface/Filtering the list/out/
+/Topics/The List interface/Filtering the list/out/production/classes/
+/Topics/The List interface/Greek letters/out/
+/Topics/The List interface/Greek letters/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Spell checker/out/
+/Topics/The Set interface/Spell checker/out/production/classes/
+/Topics/What are collections/Initialize a collection/out/
+/Topics/What are collections/Initialize a collection/out/production/classes/
